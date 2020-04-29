@@ -7,3 +7,15 @@ Integration Testing
 -Combining multiple parts of the code and testing them together
 -Conducted by either the developer or tester
 -Can be Blackbox or Whitebox
+
+System Testing
+- System testing checks if the integrated product meets the specified requirements.
+- System Testing is conducted by Programmers.
+- It is a whitebox testing.
+
+Acceptance Testing
+- Acceptance testing is to evaluate and validate that the systemÅfs functionality meets the customerÅfs requirements, standards and business needs before
+the final delivery.
+
+- Acceptance Testing is conducted by End Users.
+- It is a blackbox testing.
